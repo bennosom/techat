@@ -1,2 +1,8 @@
 techat
 ======
+
+USAGE
+
+REQUIREMENTS
+
+SETUP
