@@ -1,0 +1,13 @@
+{
+  "name": "techat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "websocket": "~1.0.8"
+  }
+}
